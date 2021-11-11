@@ -60886,7 +60886,7 @@ for(s=c.length,r=this.c,q=0;q<c.length;c.length===s||(0,H.D)(c),++q)r.push(c[q])
 gaL(a){return this.a}}
 F.Df.prototype={
 U(a,b){var s=X.afs(null,C.hA)
-return new S.tS(P.at(["/accounts",new F.V4(),"/detail",new F.V5(),"/new",new F.V6()],t.N,t.Ab),"/accounts","Flutter Demo",s,null)}}
+return new S.tS(P.at(["/accounts",new F.V4(),"/detail",new F.V5(),"/new",new F.V6()],t.N,t.Ab),"/accounts","Expense Manager",s,null)}}
 F.V4.prototype={
 $1(a){return C.wn},
 $S:359}
