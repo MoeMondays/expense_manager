@@ -1,9 +1,5 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:project/accounts/account.dart';
-import 'package:project/pages/accounts_page.dart';
-import 'package:project/pages/detail_page.dart';
 
 class NewDetailPage extends StatefulWidget {
   static const routeName = "/new";
